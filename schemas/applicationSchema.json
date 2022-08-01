@@ -1,0 +1,12 @@
+{
+    "applicationName": {
+        "type": "String",
+        "required": [
+            true,
+            "Required Application Name"
+        ]
+    },
+    "version": {
+        "type": "String"
+    }
+}
